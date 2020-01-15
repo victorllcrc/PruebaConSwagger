@@ -1,0 +1,3 @@
+2019-11-17T06:13:48.497Z - info: Escuchando en el puerto 3001.
+2019-11-17T06:13:51.847Z - info: Productos agregado a la coleccion productos undefined
+2019-11-17T06:13:51.854Z - info: ::1 - POST /productos/ HTTP/1.1 201 97 - 8.973 ms

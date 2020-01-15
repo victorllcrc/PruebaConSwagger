@@ -1,0 +1,2 @@
+2019-11-17T14:18:24.605Z - info: Producto con id [94941bc0-3c5a-4eff-984a-fe574af2e264] reemplazado con nuevo producto undefined
+2019-11-17T14:18:24.606Z - info: ::1 - PUT /productos/94941bc0-3c5a-4eff-984a-fe574af2e264 HTTP/1.1 200 93 - 2.440 ms

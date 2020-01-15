@@ -1,0 +1,2 @@
+2019-11-17T06:15:49.617Z - info: ::1 - GET /productos/ HTTP/1.1 200 295 - 0.563 ms
+2019-11-17T14:17:56.062Z - info: ::1 - POST /productos HTTP/1.1 201 93 - 54.242 ms

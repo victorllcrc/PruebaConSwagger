@@ -1,0 +1,234 @@
+{"message":"soi winston","level":"info"}
+{"message":"soy una advertencia","level":"warn"}
+{"message":"algo fallo","level":"error"}
+{"message":"soi winston","level":"info"}
+{"message":"soy una advertencia","level":"warn"}
+{"message":"algo fallo","level":"error"}
+[2019-11-16 23:41:15] info: soi winston
+[2019-11-16 23:41:15] warn: soy una advertencia
+[2019-11-16 23:41:15] error: algo fallo
+[2019-11-16 23:41:51] info: soi winston
+[2019-11-16 23:41:51] warn: soy una advertencia
+[2019-11-16 23:41:51] error: algo fallo
+[2019-11-16 23:43:56] info: soi winston
+[2019-11-16 23:43:56] warn: soy una advertencia
+[2019-11-16 23:43:56] error: algo fallo
+[2019-11-16 23:44:01] info: soi winston
+[2019-11-16 23:44:01] warn: soy una advertencia
+[2019-11-16 23:44:01] error: algo fallo
+[2019-11-16 23:50:28] info: soi winston
+[2019-11-16 23:50:28] warn: soy una advertencia
+[2019-11-16 23:50:28] error: algo fallo
+[2019-11-16 23:50:28] info: soi winston
+[2019-11-16 23:50:28] warn: soy una advertencia
+[2019-11-16 23:50:28] error: algo fallo
+[2019-11-17 00:01:08] info: soi winston
+[2019-11-17 00:01:08] warn: soy una advertencia
+[2019-11-17 00:01:08] error: algo fallo
+[2019-11-17 00:01:08] info: soi winston
+[2019-11-17 00:01:08] warn: soy una advertencia
+[2019-11-17 00:01:08] error: algo fallo
+[2019-11-17 00:01:14] info: soi winston
+[2019-11-17 00:01:14] warn: soy una advertencia
+[2019-11-17 00:01:14] error: algo fallo
+[2019-11-17 00:01:14] info: soi winston
+[2019-11-17 00:01:14] warn: soy una advertencia
+[2019-11-17 00:01:14] error: algo fallo
+[2019-11-17 00:01:55] info: soi winston
+[2019-11-17 00:01:55] warn: soy una advertencia
+[2019-11-17 00:01:55] error: algo fallo
+[2019-11-17 00:01:55] info: soi winston
+[2019-11-17 00:01:55] warn: soy una advertencia
+[2019-11-17 00:01:55] error: algo fallo
+{
+  message: '\u001b[32msoi winston\u001b[39m',
+  level: 'info',
+  timestamp: '2019-11-17 00:06:57'
+}
+{
+  message: '\u001b[33msoy una advertencia\u001b[39m',
+  level: 'warn',
+  timestamp: '2019-11-17 00:06:57'
+}
+{
+  message: '\u001b[31malgo fallo\u001b[39m',
+  level: 'error',
+  timestamp: '2019-11-17 00:06:57'
+}
+{
+  message: '\u001b[32msoi winston\u001b[39m',
+  level: 'info',
+  timestamp: '2019-11-17 00:06:57'
+}
+{
+  message: '\u001b[33msoy una advertencia\u001b[39m',
+  level: 'warn',
+  timestamp: '2019-11-17 00:06:57'
+}
+{
+  message: '\u001b[31malgo fallo\u001b[39m',
+  level: 'error',
+  timestamp: '2019-11-17 00:06:57'
+}
+{
+  message: '\u001b[32msoi winston\u001b[39m',
+  level: '\u001b[32minfo\u001b[39m',
+  timestamp: '2019-11-17 00:08:30'
+}
+{
+  message: '\u001b[33msoy una advertencia\u001b[39m',
+  level: '\u001b[33mwarn\u001b[39m',
+  timestamp: '2019-11-17 00:08:30'
+}
+{
+  message: '\u001b[31malgo fallo\u001b[39m',
+  level: '\u001b[31merror\u001b[39m',
+  timestamp: '2019-11-17 00:08:30'
+}
+{
+  message: '\u001b[32msoi winston\u001b[39m',
+  level: '\u001b[32minfo\u001b[39m',
+  timestamp: '2019-11-17 00:08:30'
+}
+{
+  message: '\u001b[33msoy una advertencia\u001b[39m',
+  level: '\u001b[33mwarn\u001b[39m',
+  timestamp: '2019-11-17 00:08:30'
+}
+{
+  message: '\u001b[31malgo fallo\u001b[39m',
+  level: '\u001b[31merror\u001b[39m',
+  timestamp: '2019-11-17 00:08:30'
+}
+{
+  message: '\u001b[32msoi winston\u001b[39m',
+  level: 'info',
+  timestamp: '2019-11-17 00:08:42'
+}
+{
+  message: '\u001b[33msoy una advertencia\u001b[39m',
+  level: 'warn',
+  timestamp: '2019-11-17 00:08:42'
+}
+{
+  message: '\u001b[31malgo fallo\u001b[39m',
+  level: 'error',
+  timestamp: '2019-11-17 00:08:42'
+}
+{
+  message: '\u001b[32msoi winston\u001b[39m',
+  level: 'info',
+  timestamp: '2019-11-17 00:08:42'
+}
+{
+  message: '\u001b[33msoy una advertencia\u001b[39m',
+  level: 'warn',
+  timestamp: '2019-11-17 00:08:42'
+}
+{
+  message: '\u001b[31malgo fallo\u001b[39m',
+  level: 'error',
+  timestamp: '2019-11-17 00:08:42'
+}
+{"message":"\u001b[32msoi winston\u001b[39m","level":"info","timestamp":"2019-11-17 00:12:43"}
+{"message":"\u001b[33msoy una advertencia\u001b[39m","level":"warn","timestamp":"2019-11-17 00:12:43"}
+{"message":"\u001b[31malgo fallo\u001b[39m","level":"error","timestamp":"2019-11-17 00:12:43"}
+{"message":"\u001b[32msoi winston\u001b[39m","level":"info","timestamp":"2019-11-17 00:12:43"}
+{"message":"\u001b[33msoy una advertencia\u001b[39m","level":"warn","timestamp":"2019-11-17 00:12:43"}
+{"message":"\u001b[31malgo fallo\u001b[39m","level":"error","timestamp":"2019-11-17 00:12:43"}
+{"message":"\u001b[32msoi winston\u001b[39m","level":"info","timestamp":"2019-11-17 00:12:51"}
+{"message":"\u001b[33msoy una advertencia\u001b[39m","level":"warn","timestamp":"2019-11-17 00:12:51"}
+{"message":"\u001b[31malgo fallo\u001b[39m","level":"error","timestamp":"2019-11-17 00:12:51"}
+{"message":"\u001b[32msoi winston\u001b[39m","level":"info","timestamp":"2019-11-17 00:12:51"}
+{"message":"\u001b[33msoy una advertencia\u001b[39m","level":"warn","timestamp":"2019-11-17 00:12:51"}
+{"message":"\u001b[31malgo fallo\u001b[39m","level":"error","timestamp":"2019-11-17 00:12:51"}
+{"message":"\u001b[32msoi winston\u001b[39m","level":"info","timestamp":"2019-11-17 00:13:22"}
+{"message":"\u001b[33msoy una advertencia\u001b[39m","level":"warn","timestamp":"2019-11-17 00:13:22"}
+{"message":"\u001b[31malgo fallo\u001b[39m","level":"error","timestamp":"2019-11-17 00:13:22"}
+{"message":"\u001b[32msoi winston\u001b[39m","level":"info","timestamp":"2019-11-17 00:13:22"}
+{"message":"\u001b[33msoy una advertencia\u001b[39m","level":"warn","timestamp":"2019-11-17 00:13:22"}
+{"message":"\u001b[31malgo fallo\u001b[39m","level":"error","timestamp":"2019-11-17 00:13:22"}
+[2019-11-17 00:16:32] info: soi winston
+[2019-11-17 00:16:32] warn: soy una advertencia
+[2019-11-17 00:16:32] error: algo fallo
+[2019-11-17 00:16:32] info: soi winston
+[2019-11-17 00:16:32] warn: soy una advertencia
+[2019-11-17 00:16:32] error: algo fallo
+[2019-11-17 00:16:57] info: soi winston
+[2019-11-17 00:16:57] warn: soy una advertencia
+[2019-11-17 00:16:57] error: algo fallo
+[2019-11-17 00:16:57] info: soi winston
+[2019-11-17 00:16:57] warn: soy una advertencia
+[2019-11-17 00:16:57] error: algo fallo
+[2019-11-17 00:17:33] info: soi winston
+[2019-11-17 00:17:33] warn: soy una advertencia
+[2019-11-17 00:17:33] error: algo fallo
+[2019-11-17 00:17:33] info: soi winston
+[2019-11-17 00:17:33] warn: soy una advertencia
+[2019-11-17 00:17:33] error: algo fallo
+[2019-11-17 00:17:37] info: soi winston
+[2019-11-17 00:17:37] warn: soy una advertencia
+[2019-11-17 00:17:37] error: algo fallo
+[2019-11-17 00:17:37] info: soi winston
+[2019-11-17 00:17:37] warn: soy una advertencia
+[2019-11-17 00:17:37] error: algo fallo
+[2019-11-17 00:17:52] info: soi winston
+[2019-11-17 00:17:52] warn: soy una advertencia
+[2019-11-17 00:17:52] error: algo fallo
+[2019-11-17 00:17:52] info: soi winston
+[2019-11-17 00:17:52] warn: soy una advertencia
+[2019-11-17 00:17:52] error: algo fallo
+[2019-11-17 00:18:11] info: soi winston
+[2019-11-17 00:18:11] warn: soy una advertencia
+[2019-11-17 00:18:11] error: algo fallo
+[2019-11-17 00:18:11] info: soi winston
+[2019-11-17 00:18:11] warn: soy una advertencia
+[2019-11-17 00:18:11] error: algo fallo
+[2019-11-17 00:18:21] info: soi winston
+[2019-11-17 00:18:21] warn: soy una advertencia
+[2019-11-17 00:18:21] error: algo fallo
+[2019-11-17 00:18:21] info: soi winston
+[2019-11-17 00:18:21] warn: soy una advertencia
+[2019-11-17 00:18:21] error: algo fallo
+[2019-11-17 00:18:36] info: soi winston
+[2019-11-17 00:18:36] warn: soy una advertencia
+[2019-11-17 00:18:36] error: algo fallo
+[2019-11-17 00:18:36] info: soi winston
+[2019-11-17 00:18:36] warn: soy una advertencia
+[2019-11-17 00:18:36] error: algo fallo
+[2019-11-17 00:18:54] info: soi winston
+[2019-11-17 00:18:54] warn: soy una advertencia
+[2019-11-17 00:18:54] error: algo fallo
+[2019-11-17 00:18:54] info: soi winston
+[2019-11-17 00:18:54] warn: soy una advertencia
+[2019-11-17 00:18:54] error: algo fallo
+[2019-11-17 00:19:11] info: soi winston
+[2019-11-17 00:19:11] warn: soy una advertencia
+[2019-11-17 00:19:11] error: algo fallo
+[2019-11-17 00:19:11] info: soi winston
+[2019-11-17 00:19:11] warn: soy una advertencia
+[2019-11-17 00:19:11] error: algo fallo
+info: [32msoi winston[39m {"timestamp":"2019-11-17 00:22:57"}
+warn: [33msoy una advertencia[39m {"timestamp":"2019-11-17 00:22:57"}
+error: [31malgo fallo[39m {"timestamp":"2019-11-17 00:22:57"}
+info: [32msoi winston[39m {"timestamp":"2019-11-17 00:22:57"}
+warn: [33msoy una advertencia[39m {"timestamp":"2019-11-17 00:22:57"}
+error: [31malgo fallo[39m {"timestamp":"2019-11-17 00:22:57"}
+[2019-11-17 00:23:28] info: soi winston
+[2019-11-17 00:23:28] info: soi winston
+[2019-11-17 00:23:28] warn: soy una advertencia
+[2019-11-17 00:23:28] error: algo fallo
+[2019-11-17 00:23:28] warn: soy una advertencia
+[2019-11-17 00:23:28] error: algo fallo
+[2019-11-17 00:24:08] info: soi winston
+[2019-11-17 00:24:08] warn: soy una advertencia
+[2019-11-17 00:24:08] error: algo fallo
+[2019-11-17 00:24:08] info: soi winston
+[2019-11-17 00:24:08] warn: soy una advertencia
+[2019-11-17 00:24:08] error: algo fallo
+[2019-11-17 00:26:21] info: soi winston
+[2019-11-17 00:26:21] warn: soy una advertencia
+[2019-11-17 00:26:21] error: algo fallo
+[2019-11-17 00:26:21] info: soi winston
+[2019-11-17 00:26:21] warn: soy una advertencia
+[2019-11-17 00:26:21] error: algo fallo

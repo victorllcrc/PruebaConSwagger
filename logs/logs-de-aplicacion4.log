@@ -1,0 +1,2 @@
+2019-11-17T06:14:38.300Z - warn: El sieguiente producto no paso la validacion { titulo: 'taza de  GOT', precio: -100, moneda: 'SOL' } ["precio" must be a positive number]
+2019-11-17T06:14:38.301Z - info: ::1 - POST /productos/ HTTP/1.1 400 123 - 5.157 ms

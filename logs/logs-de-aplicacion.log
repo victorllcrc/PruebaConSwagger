@@ -1,0 +1,445 @@
+2019-11-17T14:20:01.192Z - info: Escuchando en el puerto 3001.
+2019-11-17T14:20:14.028Z - info: ::1 - GET /productos/ HTTP/1.1 200 197 - 3.104 ms
+2019-11-17T14:20:28.210Z - info: Productos agregado a la coleccion productos undefined
+2019-11-17T14:20:28.211Z - info: ::1 - POST /productos/ HTTP/1.1 201 94 - 7.151 ms
+2019-11-17T14:20:43.116Z - info: ::1 - POST /productos/f1a026e6-273e-4ef2-8705-1318465e63ea HTTP/1.1 404 186 - 1.509 ms
+2019-11-17T14:20:55.358Z - info: ::1 - GET /productos/ HTTP/1.1 200 292 - 0.212 ms
+2019-11-17T14:21:08.592Z - info: Producto con id [f1a026e6-273e-4ef2-8705-1318465e63ea] reemplazado con nuevo producto undefined
+2019-11-17T14:21:08.594Z - info: ::1 - PUT /productos/f1a026e6-273e-4ef2-8705-1318465e63ea HTTP/1.1 200 94 - 1.549 ms
+2019-11-17T14:22:26.648Z - info: ::1 - GET /productos/ HTTP/1.1 200 292 - 0.321 ms
+2019-11-17T15:17:52.496Z - info: ::1 - GET /favicon.ico HTTP/1.1 404 150 - 2.193 ms
+2019-11-17T19:00:03.801Z - info: Escuchando en el puerto 3001.
+2019-11-17T19:00:07.618Z - info: ::1 - GET / HTTP/1.1 401 - - 2.700 ms
+2019-11-17T19:00:12.124Z - info: ::1 das GET / HTTP/1.1 401 - - 32.932 ms
+2019-11-17T19:00:17.913Z - info: ::1 daniel GET / HTTP/1.1 200 10 - 4.398 ms
+2019-11-17T19:34:37.691Z - info: Escuchando en el puerto 3001.
+2019-11-17T19:34:59.935Z - info: Escuchando en el puerto 3001.
+2019-11-17T19:35:47.402Z - info: Escuchando en el puerto 3001.
+2019-11-17T19:47:24.114Z - info: Escuchando en el puerto 3001.
+2019-11-17T19:47:38.312Z - info: Escuchando en el puerto 3001.
+2019-11-17T19:48:28.171Z - info: Escuchando en el puerto 3001.
+2019-11-17T19:49:44.288Z - info: Escuchando en el puerto 3001.
+2019-11-17T19:50:00.403Z - info: Escuchando en el puerto 3001.
+2019-11-17T20:03:49.177Z - info: Escuchando en el puerto 3001.
+2019-11-17T20:07:00.045Z - info: Escuchando en el puerto 3001.
+2019-11-17T20:15:01.564Z - info: Escuchando en el puerto 3001.
+2019-11-17T20:15:45.364Z - info: Escuchando en el puerto 3001.
+2019-11-17T20:23:31.641Z - info: Escuchando en el puerto 3001.
+2019-11-17T21:06:26.776Z - info: Escuchando en el puerto 3001.
+2019-11-17T21:09:02.953Z - error: uncaughtException: email is not defined undefined
+2019-11-17T21:09:34.222Z - error: uncaughtException: email is not defined undefined
+2019-11-17T21:12:35.596Z - error: uncaughtException: email is not defined undefined
+2019-11-17T21:19:42.972Z - error: uncaughtException: email is not defined undefined
+2019-11-17T21:20:00.344Z - error: uncaughtException: Joi.string(...).email(...).required(...) is not a function undefined
+2019-11-17T21:20:04.361Z - error: uncaughtException: Joi.string(...).email(...).required(...) is not a function undefined
+2019-11-17T21:20:11.521Z - error: uncaughtException: Joi.string(...).email(...).required(...) is not a function undefined
+2019-11-17T21:23:26.078Z - error: uncaughtException: Joi.object(...).key is not a function undefined
+2019-11-17T21:23:34.274Z - error: uncaughtException: Joi.object(...).key is not a function undefined
+2019-11-17T21:23:55.302Z - info: Escuchando en el puerto 3001.
+2019-11-17T21:28:51.304Z - info: ::1 - GET /usuarios HTTP/1.1 200 2 - 3.231 ms
+2019-11-17T21:35:33.568Z - info: Email o username ya existen en la base de datos
+2019-11-17T21:35:33.570Z - info: ::1 - POST /usuarios/ HTTP/1.1 409 51 - 407.350 ms
+2019-11-17T21:35:47.766Z - info: ::1 - GET /usuarios HTTP/1.1 200 2 - 0.213 ms
+2019-11-17T21:36:11.367Z - info: Email o username ya existen en la base de datos
+2019-11-17T21:36:11.368Z - info: ::1 - POST /usuarios/ HTTP/1.1 409 51 - 1.744 ms
+2019-11-17T21:36:39.760Z - info: Escuchando en el puerto 3001.
+2019-11-17T21:36:43.670Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 237.766 ms
+2019-11-17T21:36:48.342Z - info: ::1 - GET /usuarios HTTP/1.1 200 137 - 1.133 ms
+2019-11-17T21:36:56.063Z - info: Email o username ya existen en la base de datos
+2019-11-17T21:36:56.065Z - info: ::1 - POST /usuarios/ HTTP/1.1 409 51 - 2.189 ms
+2019-11-17T21:53:37.184Z - info: Escuchando en el puerto 3001.
+2019-11-17T21:53:51.295Z - info: Escuchando en el puerto 3001.
+2019-11-17T21:55:01.629Z - info: Escuchando en el puerto 3001.
+2019-11-17T21:55:37.961Z - info: Producto falló la validadcion undefined
+2019-11-17T21:55:37.967Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 15.997 ms
+2019-11-17T21:55:55.005Z - info: ::1 - GET /usuarios HTTP/1.1 200 2 - 0.864 ms
+2019-11-17T21:55:56.792Z - info: ::1 - GET /usuarios HTTP/1.1 200 2 - 0.228 ms
+2019-11-17T21:56:04.724Z - info: Producto falló la validadcion undefined
+2019-11-17T21:56:04.726Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 2.176 ms
+2019-11-17T21:56:10.709Z - info: ::1 - GET /usuarios HTTP/1.1 200 2 - 0.520 ms
+2019-11-17T22:05:31.098Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:05:46.629Z - info: Producto falló la validadcion undefined
+2019-11-17T22:05:46.636Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 14.452 ms
+2019-11-17T22:09:37.117Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:10:42.942Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:10:49.845Z - info: Producto falló la validadcion undefined
+2019-11-17T22:10:49.855Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 23.104 ms
+2019-11-17T22:12:45.129Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:12:48.830Z - info: Producto falló la validadcion undefined
+2019-11-17T22:12:48.838Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 24.711 ms
+2019-11-17T22:13:00.370Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:13:02.239Z - info: Producto falló la validadcion undefined
+2019-11-17T22:13:02.245Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 18.535 ms
+2019-11-17T22:13:33.829Z - error: uncaughtException: Unexpected token '.' undefined
+2019-11-17T22:14:14.140Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:14:34.304Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:14:40.169Z - info: Producto falló la validadcion undefined
+2019-11-17T22:14:40.175Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 26.941 ms
+2019-11-17T22:15:22.164Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:15:24.535Z - info: Producto falló la validadcion undefined
+2019-11-17T22:15:24.541Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 29.122 ms
+2019-11-17T22:16:04.480Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:16:07.270Z - info: Producto falló la validadcion undefined
+2019-11-17T22:16:07.277Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 27.380 ms
+2019-11-17T22:20:33.021Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:20:45.155Z - info: Producto falló la validadcion undefined
+2019-11-17T22:20:45.161Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 26.046 ms
+2019-11-17T22:21:24.080Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:21:27.196Z - info: Producto falló la validadcion undefined
+2019-11-17T22:21:27.201Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 26.198 ms
+2019-11-17T22:22:17.176Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:26:33.772Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:26:37.629Z - info: Producto falló la validadcion undefined
+2019-11-17T22:26:37.640Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 23.468 ms
+2019-11-17T22:27:21.638Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:27:24.345Z - warn: Producto falló la validadcion undefined
+2019-11-17T22:27:24.355Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 22.276 ms
+2019-11-17T22:27:37.843Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:27:39.864Z - error: Producto falló la validadcion undefined
+2019-11-17T22:27:39.873Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 16.550 ms
+2019-11-17T22:29:11.990Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:29:14.544Z - error: Producto falló la validadcion ValidationError: child "password" fails because ["password" length must be at least 6 characters long]
+    at Object.exports.process (/home/victor/vende_tus_corotos_api/node_modules/joi/lib/errors.js:203:19)
+    at internals.Object._validateWithOptions (/home/victor/vende_tus_corotos_api/node_modules/joi/lib/types/any/index.js:764:31)
+    at module.exports.internals.Any.root.validate (/home/victor/vende_tus_corotos_api/node_modules/joi/lib/index.js:147:23)
+    at module.exports (/home/victor/vende_tus_corotos_api/api/recursos/usuarios/usuarios.validate.js:11:27)
+    at Layer.handle [as handle_request] (/home/victor/vende_tus_corotos_api/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/victor/vende_tus_corotos_api/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/victor/vende_tus_corotos_api/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/victor/vende_tus_corotos_api/node_modules/express/lib/router/layer.js:95:5)
+    at /home/victor/vende_tus_corotos_api/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/victor/vende_tus_corotos_api/node_modules/express/lib/router/index.js:335:12)
+2019-11-17T22:29:14.557Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 22.444 ms
+2019-11-17T22:29:44.607Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:29:56.170Z - error: Producto falló la validadcion undefined
+2019-11-17T22:29:56.176Z - info: ::1 - POST /usuarios/ HTTP/1.1 400 45 - 18.014 ms
+2019-11-17T22:32:00.022Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:35:03.828Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:38:39.756Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:39:25.592Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:40:07.752Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:45:49.514Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:46:45.862Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 79.737 ms
+2019-11-17T22:46:56.964Z - info: usuariodaniel no existe. No pudo ser autenticado
+2019-11-17T22:46:56.967Z - info: ::1 daniel GET / HTTP/1.1 401 - - 9.731 ms
+2019-11-17T22:47:06.378Z - info: usuariovictorllcrc no existe. No pudo ser autenticado
+2019-11-17T22:47:06.380Z - info: ::1 victorllcrc GET / HTTP/1.1 401 - - 3.980 ms
+2019-11-17T22:47:21.473Z - info: ::1 - GET /usuarios HTTP/1.1 200 137 - 0.532 ms
+2019-11-17T22:47:34.498Z - info: Email o username ya existen en la base de datos
+2019-11-17T22:47:34.500Z - info: ::1 - POST /usuarios/ HTTP/1.1 409 51 - 2.244 ms
+2019-11-17T22:47:40.049Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 70.688 ms
+2019-11-17T22:47:43.460Z - info: ::1 - GET /usuarios HTTP/1.1 200 271 - 0.335 ms
+2019-11-17T22:47:55.692Z - info: Usuario victorllcrc completo autentificacion
+2019-11-17T22:47:55.694Z - info: ::1 victorllcrc GET / HTTP/1.1 304 - - 66.452 ms
+2019-11-17T22:48:23.627Z - info: Usuario victorllcrc completo autentificacion
+2019-11-17T22:48:23.629Z - info: ::1 victorllcrc GET / HTTP/1.1 304 - - 68.570 ms
+2019-11-17T22:48:27.998Z - info: Usuario victorllcrc completo autentificacion
+2019-11-17T22:48:28.000Z - info: ::1 victorllcrc GET / HTTP/1.1 304 - - 70.553 ms
+2019-11-17T22:48:31.338Z - info: Usuario victorllcrc completo autentificacion
+2019-11-17T22:48:31.340Z - info: ::1 victorllcrc GET / HTTP/1.1 200 10 - 66.387 ms
+2019-11-17T22:48:31.400Z - info: ::1 victorllcrc GET /favicon.ico HTTP/1.1 404 150 - 2.989 ms
+2019-11-17T22:48:33.407Z - info: Usuario victorllcrc completo autentificacion
+2019-11-17T22:48:33.409Z - info: ::1 victorllcrc GET / HTTP/1.1 304 - - 66.485 ms
+2019-11-17T22:48:37.723Z - info: Usuario victorllcrc completo autentificacion
+2019-11-17T22:48:37.725Z - info: ::1 victorllcrc GET / HTTP/1.1 304 - - 68.695 ms
+2019-11-17T22:48:56.090Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:49:00.731Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 89.530 ms
+2019-11-17T22:49:09.025Z - info: Usuario victorllcrc completo autentificacion
+2019-11-17T22:49:09.029Z - info: ::1 victorllcrc GET / HTTP/1.1 304 - - 76.462 ms
+2019-11-17T22:57:14.787Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:57:19.856Z - info: usuariovictorllcrc no existe. No pudo ser autenticado
+2019-11-17T22:57:19.863Z - info: ::1 victorllcrc GET / HTTP/1.1 401 - - 10.289 ms
+2019-11-17T22:57:20.303Z - info: ::1 - GET / HTTP/1.1 401 - - 0.163 ms
+2019-11-17T22:57:29.586Z - info: usuariovictorllcrc no existe. No pudo ser autenticado
+2019-11-17T22:57:29.588Z - info: ::1 victorllcrc GET / HTTP/1.1 401 - - 2.073 ms
+2019-11-17T22:57:49.864Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 82.091 ms
+2019-11-17T22:57:56.371Z - info: Usuario victorllcrc no completo autentificacion , contraseña incorecta 
+2019-11-17T22:57:56.373Z - error: uncaughtException: nul is not defined undefined
+2019-11-17T22:58:36.332Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:58:39.711Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 88.747 ms
+2019-11-17T22:58:40.532Z - info: Usuario victorllcrc no completo autentificacion , contraseña incorecta 
+2019-11-17T22:58:40.535Z - error: uncaughtException: nul is not defined undefined
+2019-11-17T22:58:58.384Z - info: Escuchando en el puerto 3001.
+2019-11-17T22:59:00.742Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 84.967 ms
+2019-11-17T22:59:04.888Z - info: Usuario victorllcrc no completo autentificacion , contraseña incorecta 
+2019-11-17T22:59:04.891Z - error: uncaughtException: nul is not defined undefined
+2019-11-19T00:58:55.108Z - error: uncaughtException: Route.post() requires a callback function but got a [object Object] undefined
+2019-11-19T00:59:41.227Z - error: uncaughtException: Route.post() requires a callback function but got a [object Object] undefined
+2019-11-19T01:02:32.288Z - error: uncaughtException: Route.post() requires a callback function but got a [object Object] undefined
+2019-11-19T01:03:31.072Z - error: uncaughtException: Route.post() requires a callback function but got a [object Object] undefined
+2019-11-19T01:05:25.602Z - error: uncaughtException: Route.post() requires a callback function but got a [object Object] undefined
+2019-11-19T01:06:16.030Z - error: uncaughtException: Route.post() requires a callback function but got a [object Object] undefined
+2019-11-19T01:11:31.133Z - info: Escuchando en el puerto 3001.
+2019-11-19T01:11:43.735Z - info: ::1 - GET / HTTP/1.1 401 - - 2.965 ms
+2019-11-19T01:14:09.988Z - info: Escuchando en el puerto 3001.
+2019-11-19T01:14:20.830Z - info: ::1 - GET / HTTP/1.1 401 - - 1.946 ms
+2019-11-19T01:14:21.312Z - info: ::1 - GET / HTTP/1.1 401 - - 0.162 ms
+2019-11-19T05:33:11.293Z - info: Escuchando en el puerto 3001.
+2019-11-19T05:34:10.827Z - info: usuariovictorllcrc no existe. No pudo ser autenticado
+2019-11-19T05:34:10.835Z - info: ::1 - POST /usuarios/login HTTP/1.1 400 46 - 5.579 ms
+2019-11-19T05:34:42.449Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 389.730 ms
+2019-11-19T05:35:02.019Z - info: Usuario victorllcrc no completo autentificacion , contraseña incorecta 
+2019-11-19T05:35:02.022Z - info: ::1 - POST /usuarios/login HTTP/1.1 400 76 - 2.999 ms
+2019-11-19T05:35:46.610Z - info: Escuchando en el puerto 3001.
+2019-11-19T05:35:57.490Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 101.983 ms
+2019-11-19T05:36:27.246Z - info: ::1 - POST /usuarios/login HTTP/1.1 400 94 - 2.712 ms
+2019-11-19T05:54:55.326Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-19T05:54:55.328Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 84.227 ms
+2019-11-19T06:18:35.944Z - info: Escuchando en el puerto 3001.
+2019-11-19T06:18:53.701Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 134.094 ms
+2019-11-19T06:19:20.741Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-19T06:19:20.743Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 95.976 ms
+2019-11-19T06:21:27.541Z - info: ::1 - GET / HTTP/1.1 401 - - 1.054 ms
+2019-11-19T06:22:21.756Z - info: ::1 - GET / HTTP/1.1 401 - - 0.138 ms
+2019-11-19T06:23:47.626Z - info: ::1 - GET / HTTP/1.1 401 - - 0.132 ms
+2019-11-19T06:25:43.022Z - info: ::1 - GET / HTTP/1.1 401 - - 0.237 ms
+2019-11-19T06:26:22.496Z - info: ::1 - GET /?Authorization=bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU2N2VlYWRjLWZmNDgtNDRmMi04NGQyLWY1MWUyNmU4MTcyNCIsImlhdCI6MTU3NDE0NDM2MCwiZXhwIjoxNTc0MjMwNzYwfQ.AXbAqfeN1-Jp0gfcME7c-ifVaL2_1IXvl-zaHBN5L_A HTTP/1.1 401 - - 0.158 ms
+2019-11-19T06:27:29.801Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-19T06:27:29.806Z - info: ::1 - GET /?= HTTP/1.1 500 1349 - 8.180 ms
+2019-11-19T06:28:28.146Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-19T06:28:28.148Z - info: ::1 - GET /?= HTTP/1.1 500 1349 - 2.236 ms
+2019-11-19T07:10:15.358Z - info: Escuchando en el puerto 3001.
+2019-11-19T07:11:45.106Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 357.563 ms
+2019-11-19T07:11:58.150Z - info: ::1 - GET /usuarios/ HTTP/1.1 200 178 - 0.671 ms
+2019-11-19T07:12:38.577Z - info: ::1 - GET /usuarios/login HTTP/1.1 404 153 - 1.126 ms
+2019-11-19T07:12:47.833Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-19T07:12:47.834Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 66.597 ms
+2019-11-19T07:13:25.629Z - info: JWT token no es valido. Usuario con id e67eeadc-ff48-44f2-84d2-f51e26e81724 no existe
+2019-11-19T07:13:25.634Z - info: ::1 - GET /?=bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNhOWIyMmRhLTY1ZmMtNDMyYi04NTU5LWJjZmY5NTkwMjdmOSIsImlhdCI6MTU3NDE0NzU2NywiZXhwIjoxNTc0MjMzOTY3fQ.u4F2yQRDkWcNUhph5qQX9ZzQ88GrRvYBO4RYXiYALI4 HTTP/1.1 500 1349 - 5.835 ms
+2019-11-19T07:14:10.888Z - info: Escuchando en el puerto 3001.
+2019-11-19T07:14:20.941Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 75.443 ms
+2019-11-19T07:14:31.299Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-19T07:14:31.301Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 72.106 ms
+2019-11-19T07:14:53.712Z - info: JWT token no es valido. Usuario con id e67eeadc-ff48-44f2-84d2-f51e26e81724 no existe
+2019-11-19T07:14:53.715Z - info: ::1 - GET /?=bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNhOWIyMmRhLTY1ZmMtNDMyYi04NTU5LWJjZmY5NTkwMjdmOSIsImlhdCI6MTU3NDE0NzU2NywiZXhwIjoxNTc0MjMzOTY3fQ.u4F2yQRDkWcNUhph5qQX9ZzQ88GrRvYBO4RYXiYALI4 HTTP/1.1 500 1349 - 4.431 ms
+2019-11-19T07:15:42.874Z - info: Escuchando en el puerto 3001.
+2019-11-19T07:16:00.827Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 81.602 ms
+2019-11-19T07:16:11.869Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-19T07:16:11.871Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 71.537 ms
+2019-11-19T07:16:38.125Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-19T07:16:38.129Z - info: ::1 - GET /?=bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNhOWIyMmRhLTY1ZmMtNDMyYi04NTU5LWJjZmY5NTkwMjdmOSIsImlhdCI6MTU3NDE0NzU2NywiZXhwIjoxNTc0MjMzOTY3fQ.u4F2yQRDkWcNUhph5qQX9ZzQ88GrRvYBO4RYXiYALI4 HTTP/1.1 500 1349 - 5.387 ms
+2019-11-19T07:19:27.061Z - info: Escuchando en el puerto 3001.
+2019-11-19T07:20:41.897Z - info: Escuchando en el puerto 3001.
+2019-11-19T07:25:49.569Z - info: Escuchando en el puerto 3001.
+2019-11-19T07:26:03.479Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 112.790 ms
+2019-11-19T07:26:15.762Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-19T07:26:15.765Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 67.375 ms
+2019-11-19T07:26:31.671Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-19T07:26:31.676Z - info: ::1 - GET /?=bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNhOWIyMmRhLTY1ZmMtNDMyYi04NTU5LWJjZmY5NTkwMjdmOSIsImlhdCI6MTU3NDE0NzU2NywiZXhwIjoxNTc0MjMzOTY3fQ.u4F2yQRDkWcNUhph5qQX9ZzQ88GrRvYBO4RYXiYALI4 HTTP/1.1 500 1349 - 6.513 ms
+2019-11-19T07:26:58.831Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-19T07:26:58.833Z - info: ::1 - GET / HTTP/1.1 500 1349 - 1.849 ms
+2019-11-19T07:29:13.226Z - info: ::1 - GET / HTTP/1.1 401 - - 0.650 ms
+2019-11-19T07:29:59.363Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-19T07:29:59.365Z - info: ::1 - GET / HTTP/1.1 500 1349 - 1.586 ms
+2019-11-19T07:31:02.723Z - info: Escuchando en el puerto 3001.
+2019-11-19T07:31:24.006Z - info: Escuchando en el puerto 3001.
+2019-11-19T07:33:23.782Z - info: ::1 - GET / HTTP/1.1 401 - - 2.604 ms
+2019-11-19T07:33:24.802Z - info: ::1 - GET / HTTP/1.1 401 - - 0.198 ms
+2019-11-19T07:33:24.863Z - info: ::1 - GET /favicon.ico HTTP/1.1 404 150 - 4.970 ms
+2019-11-19T07:34:23.085Z - info: ::1 - GET / HTTP/1.1 401 - - 1.451 ms
+2019-11-19T07:35:03.171Z - info: Escuchando en el puerto 3001.
+2019-11-19T07:35:16.576Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 81.720 ms
+2019-11-19T07:35:26.818Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-19T07:35:26.820Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 72.010 ms
+2019-11-19T07:35:36.944Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-19T07:35:36.946Z - info:  undefined
+2019-11-19T07:35:36.948Z - info: ::1 - GET / HTTP/1.1 200 10 - 5.153 ms
+2019-11-19T07:36:32.279Z - info: ::1 - GET / HTTP/1.1 401 - - 0.550 ms
+2019-11-19T07:40:21.847Z - info: Escuchando en el puerto 3001.
+2019-11-19T07:41:41.587Z - info: Escuchando en el puerto 3001.
+2019-11-19T07:45:19.584Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 74.968 ms
+2019-11-19T07:45:22.986Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-19T07:45:22.988Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 72.279 ms
+2019-11-19T07:45:36.542Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-19T07:45:36.544Z - info:  {"username":"victorllcrc","id":"facdbd08-9ae5-49d2-9776-5a0843cb0575"}
+2019-11-19T07:45:36.546Z - info: ::1 - GET / HTTP/1.1 200 10 - 6.183 ms
+2019-11-19T07:48:13.635Z - info: ::1 - GET / HTTP/1.1 401 - - 0.942 ms
+2019-11-19T08:49:05.705Z - info: Escuchando en el puerto 3001.
+2019-11-19T08:51:24.564Z - info: Escuchando en el puerto 3001.
+2019-11-19T08:51:29.838Z - info: Escuchando en el puerto 3001.
+2019-11-19T08:57:17.314Z - info: Escuchando en el puerto 3001.
+2019-11-19T08:57:51.992Z - info: Escuchando en el puerto 3001.
+2019-11-19T08:58:14.316Z - info: ::1 - GET /usuarios/ HTTP/1.1 200 2 - 3.363 ms
+2019-11-19T08:58:28.273Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 82.277 ms
+2019-11-19T08:58:35.938Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-19T08:58:35.940Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 74.009 ms
+2019-11-19T08:59:12.172Z - info: ::1 - GET /productos HTTP/1.1 200 197 - 0.335 ms
+2019-11-19T09:01:13.164Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-19T09:01:13.201Z - info: Productos agregado a la coleccion productos {"titulo":"panaderia","precio":10,"moneda":"SOL","id":"3244cb7a-491e-4d11-a0be-640f6ca7ead9"}
+2019-11-19T09:01:13.205Z - info: ::1 - POST /productos HTTP/1.1 201 93 - 41.816 ms
+2019-11-19T09:01:37.172Z - info: ::1 - POST /productos HTTP/1.1 401 - - 0.555 ms
+2019-11-19T09:01:46.085Z - info: ::1 - GET /productos HTTP/1.1 200 291 - 0.303 ms
+2019-11-19T09:01:58.807Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-19T09:01:58.809Z - info: Productos agregado a la coleccion productos {"titulo":"panaderia2","precio":20,"moneda":"SOL","id":"c5e8564d-4083-4643-805d-c8cbea888125"}
+2019-11-19T09:01:58.812Z - info: ::1 - POST /productos HTTP/1.1 201 94 - 3.774 ms
+2019-11-19T09:02:02.974Z - info: ::1 - GET /productos HTTP/1.1 200 386 - 0.523 ms
+2019-11-19T09:03:26.359Z - info: Escuchando en el puerto 3001.
+2019-11-19T09:03:37.000Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 83.502 ms
+2019-11-19T09:03:39.613Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-19T09:03:39.615Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 72.896 ms
+2019-11-19T09:03:51.321Z - info: ::1 - GET /usuarios/ HTTP/1.1 200 178 - 0.424 ms
+2019-11-19T09:04:01.376Z - info: ::1 - GET /productos HTTP/1.1 200 197 - 0.395 ms
+2019-11-19T09:04:13.091Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-19T09:04:13.094Z - info: Productos agregado a la coleccion productos {"titulo":"panaderia2","precio":20,"moneda":"SOL","id":"631ce7c0-3a7f-4ddf-85d2-9196bdeeff5e","dueño":"victorllcrc"}
+2019-11-19T09:04:13.095Z - info: ::1 - POST /productos HTTP/1.1 201 117 - 6.371 ms
+2019-11-19T09:04:22.860Z - info: ::1 - GET /productos HTTP/1.1 200 315 - 0.224 ms
+2019-11-19T18:28:34.688Z - error: uncaughtException: Cannot find module '.(dev'
+Require stack:
+- /home/victor/vende_tus_corotos_api/config/index.js
+- /home/victor/vende_tus_corotos_api/api/recursos/usuarios/usuarios.routes.js
+- /home/victor/vende_tus_corotos_api/index.js {"date":"Tue Nov 19 2019 13:28:34 GMT-0500 (Colombia Standard Time)","process":{"pid":575,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":28987392,"heapTotal":16199680,"heapUsed":7683304,"external":1323271}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":12611},"trace":[{"column":15,"file":"internal/modules/cjs/loader.js","function":"Module._resolveFilename","line":794,"method":"_resolveFilename","native":false},{"column":27,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":687,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":35,"file":"/home/victor/vende_tus_corotos_api/config/index.js","function":null,"line":14,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false}],"stack":["Error: Cannot find module '.(dev'","Require stack:","- /home/victor/vende_tus_corotos_api/config/index.js","- /home/victor/vende_tus_corotos_api/api/recursos/usuarios/usuarios.routes.js","- /home/victor/vende_tus_corotos_api/index.js","    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:794:15)","    at Function.Module._load (internal/modules/cjs/loader.js:687:27)","    at Module.require (internal/modules/cjs/loader.js:849:19)","    at require (internal/modules/cjs/helpers.js:74:18)","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/config/index.js:14:35)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Module.require (internal/modules/cjs/loader.js:849:19)"]}
+2019-11-19T18:28:58.080Z - error: uncaughtException: Unexpected token ',' {"date":"Tue Nov 19 2019 13:28:58 GMT-0500 (Colombia Standard Time)","process":{"pid":587,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":31842304,"heapTotal":16199680,"heapUsed":10939808,"external":1790651}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":12634},"trace":[{"column":18,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":892,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":17,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":8,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false}],"stack":["/home/victor/vende_tus_corotos_api/api/libs/auth.js:10","    secretOrKey:config.,","                       ^","","SyntaxError: Unexpected token ','","    at Module._compile (internal/modules/cjs/loader.js:892:18)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Module.require (internal/modules/cjs/loader.js:849:19)","    at require (internal/modules/cjs/helpers.js:74:18)","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:8:17)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)"]}
+2019-11-19T18:41:05.451Z - error: uncaughtException: Unexpected token ',' {"date":"Tue Nov 19 2019 13:41:05 GMT-0500 (Colombia Standard Time)","process":{"pid":630,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":31768576,"heapTotal":16199680,"heapUsed":10900176,"external":1790651}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":13361},"trace":[{"column":18,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":892,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":17,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":8,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false}],"stack":["/home/victor/vende_tus_corotos_api/api/libs/auth.js:10","    secretOrKey:config.,","                       ^","","SyntaxError: Unexpected token ','","    at Module._compile (internal/modules/cjs/loader.js:892:18)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Module.require (internal/modules/cjs/loader.js:849:19)","    at require (internal/modules/cjs/helpers.js:74:18)","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:8:17)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)"]}
+2019-11-19T18:42:03.948Z - error: uncaughtException: Unexpected token ',' {"date":"Tue Nov 19 2019 13:42:03 GMT-0500 (Colombia Standard Time)","process":{"pid":642,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":31793152,"heapTotal":16199680,"heapUsed":10900320,"external":1790651}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":13420},"trace":[{"column":18,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":892,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":17,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":8,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false}],"stack":["/home/victor/vende_tus_corotos_api/api/libs/auth.js:10","    secretOrKey:config.,","                       ^","","SyntaxError: Unexpected token ','","    at Module._compile (internal/modules/cjs/loader.js:892:18)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Module.require (internal/modules/cjs/loader.js:849:19)","    at require (internal/modules/cjs/helpers.js:74:18)","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:8:17)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)"]}
+2019-11-19T18:45:48.974Z - error: uncaughtException: Unexpected token ',' {"date":"Tue Nov 19 2019 13:45:48 GMT-0500 (Colombia Standard Time)","process":{"pid":666,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":31866880,"heapTotal":16199680,"heapUsed":10993960,"external":1790651}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":13645},"trace":[{"column":18,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":892,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":17,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":8,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false}],"stack":["/home/victor/vende_tus_corotos_api/api/libs/auth.js:10","    secretOrKey:config.,","                       ^","","SyntaxError: Unexpected token ','","    at Module._compile (internal/modules/cjs/loader.js:892:18)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Module.require (internal/modules/cjs/loader.js:849:19)","    at require (internal/modules/cjs/helpers.js:74:18)","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:8:17)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)"]}
+2019-11-19T18:46:43.352Z - error: uncaughtException: Unexpected token ',' {"date":"Tue Nov 19 2019 13:46:43 GMT-0500 (Colombia Standard Time)","process":{"pid":709,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":31371264,"heapTotal":16199680,"heapUsed":10993800,"external":1790651}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":13699},"trace":[{"column":18,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":892,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":17,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":8,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false}],"stack":["/home/victor/vende_tus_corotos_api/api/libs/auth.js:10","    secretOrKey:config.,","                       ^","","SyntaxError: Unexpected token ','","    at Module._compile (internal/modules/cjs/loader.js:892:18)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Module.require (internal/modules/cjs/loader.js:849:19)","    at require (internal/modules/cjs/helpers.js:74:18)","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:8:17)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)"]}
+2019-11-19T18:47:58.111Z - error: uncaughtException: Unexpected token ',' {"date":"Tue Nov 19 2019 13:47:58 GMT-0500 (Colombia Standard Time)","process":{"pid":727,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":31924224,"heapTotal":16199680,"heapUsed":10955232,"external":1790651}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":13774},"trace":[{"column":18,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":892,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":17,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":8,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false}],"stack":["/home/victor/vende_tus_corotos_api/api/libs/auth.js:10","    secretOrKey:config.,","                       ^","","SyntaxError: Unexpected token ','","    at Module._compile (internal/modules/cjs/loader.js:892:18)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Module.require (internal/modules/cjs/loader.js:849:19)","    at require (internal/modules/cjs/helpers.js:74:18)","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:8:17)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)"]}
+2019-11-19T18:48:10.849Z - error: uncaughtException: Unexpected token ',' {"date":"Tue Nov 19 2019 13:48:10 GMT-0500 (Colombia Standard Time)","process":{"pid":754,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":31989760,"heapTotal":16199680,"heapUsed":11043504,"external":1790651}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":13787},"trace":[{"column":18,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":892,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":17,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":8,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false}],"stack":["/home/victor/vende_tus_corotos_api/api/libs/auth.js:10","    secretOrKey:config.,","                       ^","","SyntaxError: Unexpected token ','","    at Module._compile (internal/modules/cjs/loader.js:892:18)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Module.require (internal/modules/cjs/loader.js:849:19)","    at require (internal/modules/cjs/helpers.js:74:18)","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:8:17)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)"]}
+2019-11-19T18:48:56.589Z - error: uncaughtException: Unexpected token ',' {"date":"Tue Nov 19 2019 13:48:56 GMT-0500 (Colombia Standard Time)","process":{"pid":767,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":31993856,"heapTotal":16199680,"heapUsed":11043440,"external":1790651}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":13832},"trace":[{"column":18,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":892,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":17,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":8,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false}],"stack":["/home/victor/vende_tus_corotos_api/api/libs/auth.js:10","    secretOrKey:config.,","                       ^","","SyntaxError: Unexpected token ','","    at Module._compile (internal/modules/cjs/loader.js:892:18)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Module.require (internal/modules/cjs/loader.js:849:19)","    at require (internal/modules/cjs/helpers.js:74:18)","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:8:17)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)"]}
+2019-11-19T18:49:11.438Z - error: uncaughtException: Unexpected token ',' {"date":"Tue Nov 19 2019 13:49:11 GMT-0500 (Colombia Standard Time)","process":{"pid":792,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":31989760,"heapTotal":16199680,"heapUsed":11043656,"external":1790651}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":13847},"trace":[{"column":18,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":892,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":17,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":8,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false}],"stack":["/home/victor/vende_tus_corotos_api/api/libs/auth.js:10","    secretOrKey:config.,","                       ^","","SyntaxError: Unexpected token ','","    at Module._compile (internal/modules/cjs/loader.js:892:18)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Module.require (internal/modules/cjs/loader.js:849:19)","    at require (internal/modules/cjs/helpers.js:74:18)","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:8:17)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)"]}
+2019-11-19T18:52:15.281Z - info: Escuchando en el puerto 3001.
+2019-11-19T18:52:44.830Z - info: Escuchando en el puerto 3001.
+2019-11-19T18:53:09.826Z - info: Escuchando en el puerto 3000.
+2019-11-19T18:53:09.826Z - info: Escuchando en el puerto 3000.
+2019-11-19T18:55:48.045Z - info: Escuchando en el puerto 3000.
+2019-11-19T19:50:32.481Z - info: Escuchando en el puerto 3000.
+2019-11-19T19:51:48.709Z - info: Escuchando en el puerto 3000.
+2019-11-19T20:14:25.201Z - error: uncaughtException: mongoose.connect.on is not a function {"date":"Tue Nov 19 2019 15:14:25 GMT-0500 (Colombia Standard Time)","process":{"pid":2667,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":47403008,"heapTotal":30924800,"heapUsed":16283144,"external":19526103}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":18961},"trace":[{"column":18,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module.runMain","line":1025,"method":"runMain","native":false},{"column":11,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}],"stack":["TypeError: mongoose.connect.on is not a function","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)","    at internal/main/run_main_module.js:17:11"]}
+2019-11-19T20:14:26.088Z - error: uncaughtException: mongoose.connect.on is not a function {"date":"Tue Nov 19 2019 15:14:26 GMT-0500 (Colombia Standard Time)","process":{"pid":2681,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":47194112,"heapTotal":29876224,"heapUsed":19659048,"external":21200318}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":18962},"trace":[{"column":18,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module.runMain","line":1025,"method":"runMain","native":false},{"column":11,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}],"stack":["TypeError: mongoose.connect.on is not a function","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)","    at internal/main/run_main_module.js:17:11"]}
+2019-11-19T20:26:13.394Z - error: uncaughtException: mongoose.connect.on is not a function {"date":"Tue Nov 19 2019 15:26:13 GMT-0500 (Colombia Standard Time)","process":{"pid":2695,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":47357952,"heapTotal":31186944,"heapUsed":16466320,"external":19541389}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":19669},"trace":[{"column":18,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module.runMain","line":1025,"method":"runMain","native":false},{"column":11,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}],"stack":["TypeError: mongoose.connect.on is not a function","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)","    at internal/main/run_main_module.js:17:11"]}
+2019-11-19T20:31:07.126Z - error: uncaughtException: mongoose.connect.on is not a function {"date":"Tue Nov 19 2019 15:31:07 GMT-0500 (Colombia Standard Time)","process":{"pid":2708,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":47910912,"heapTotal":30662656,"heapUsed":16553720,"external":19541389}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":19963},"trace":[{"column":18,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module.runMain","line":1025,"method":"runMain","native":false},{"column":11,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}],"stack":["TypeError: mongoose.connect.on is not a function","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)","    at internal/main/run_main_module.js:17:11"]}
+2019-11-19T20:34:03.727Z - error: uncaughtException: mongoose.connect.on is not a function {"date":"Tue Nov 19 2019 15:34:03 GMT-0500 (Colombia Standard Time)","process":{"pid":2724,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":48238592,"heapTotal":30662656,"heapUsed":16513648,"external":19647176}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":20140},"trace":[{"column":18,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module.runMain","line":1025,"method":"runMain","native":false},{"column":11,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}],"stack":["TypeError: mongoose.connect.on is not a function","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)","    at internal/main/run_main_module.js:17:11"]}
+2019-11-19T20:36:16.278Z - error: uncaughtException: mongoose.connect.on is not a function {"date":"Tue Nov 19 2019 15:36:16 GMT-0500 (Colombia Standard Time)","process":{"pid":2740,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":47616000,"heapTotal":31186944,"heapUsed":16643208,"external":19547425}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":20272},"trace":[{"column":18,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module.runMain","line":1025,"method":"runMain","native":false},{"column":11,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}],"stack":["TypeError: mongoose.connect.on is not a function","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)","    at internal/main/run_main_module.js:17:11"]}
+2019-11-19T20:36:40.924Z - error: uncaughtException: mongoose.connect.on is not a function {"date":"Tue Nov 19 2019 15:36:40 GMT-0500 (Colombia Standard Time)","process":{"pid":2753,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":47501312,"heapTotal":31186944,"heapUsed":16612208,"external":19601296}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":20297},"trace":[{"column":18,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module.runMain","line":1025,"method":"runMain","native":false},{"column":11,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}],"stack":["TypeError: mongoose.connect.on is not a function","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)","    at internal/main/run_main_module.js:17:11"]}
+2019-11-19T20:56:48.986Z - error: uncaughtException: mongoose.connect.on is not a function {"date":"Tue Nov 19 2019 15:56:48 GMT-0500 (Colombia Standard Time)","process":{"pid":2921,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":48472064,"heapTotal":31449088,"heapUsed":16307952,"external":19512820}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":21505},"trace":[{"column":18,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module.runMain","line":1025,"method":"runMain","native":false},{"column":11,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}],"stack":["TypeError: mongoose.connect.on is not a function","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)","    at internal/main/run_main_module.js:17:11"]}
+2019-11-19T21:00:46.170Z - info: Escuchando en el puerto 3000.
+2019-11-19T21:00:50.441Z - info: Escuchando en el puerto 3000.
+2019-11-19T21:00:54.421Z - error: uncaughtException: Unexpected identifier {"date":"Tue Nov 19 2019 16:00:54 GMT-0500 (Colombia Standard Time)","process":{"pid":2966,"uid":1000,"gid":1000,"cwd":"/home/victor/vende_tus_corotos_api","execPath":"/usr/local/bin/node","version":"v12.13.0","argv":["/usr/local/bin/node","/home/victor/vende_tus_corotos_api/index.js"],"memoryUsage":{"rss":39952384,"heapTotal":29351936,"heapUsed":17400576,"external":21135093}},"os":{"loadavg":[0.5185546875,0.57763671875,0.5859375],"uptime":21750},"trace":[{"column":18,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":892,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":28,"file":"/home/victor/vende_tus_corotos_api/api/recursos/productos/productos.routes.js","function":null,"line":9,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":812,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":724,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":849,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":24,"file":"/home/victor/vende_tus_corotos_api/index.js","function":null,"line":7,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":956,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":973,"method":".js","native":false}],"stack":["/home/victor/vende_tus_corotos_api/api/recursos/productos/productos.controller.js:12","module.exports = {","^^^^^^","","SyntaxError: Unexpected identifier","    at Module._compile (internal/modules/cjs/loader.js:892:18)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Module.require (internal/modules/cjs/loader.js:849:19)","    at require (internal/modules/cjs/helpers.js:74:18)","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/api/recursos/productos/productos.routes.js:9:28)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)","    at Module.load (internal/modules/cjs/loader.js:812:32)","    at Function.Module._load (internal/modules/cjs/loader.js:724:14)","    at Module.require (internal/modules/cjs/loader.js:849:19)","    at require (internal/modules/cjs/helpers.js:74:18)","    at Object.<anonymous> (/home/victor/vende_tus_corotos_api/index.js:7:24)","    at Module._compile (internal/modules/cjs/loader.js:956:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)"]}
+2019-11-19T21:01:40.931Z - info: Escuchando en el puerto 3000.
+2019-11-19T21:03:48.134Z - info: Escuchando en el puerto 3000.
+2019-11-19T21:37:21.738Z - info: Escuchando en el puerto 3000.
+2019-11-26T21:52:16.333Z - info: Escuchando en el puerto 3000.
+2019-11-26T21:52:46.330Z - error: Fallo la conexcion a mongodb
+2019-11-26T22:14:21.940Z - info: Escuchando en el puerto 3000.
+2019-11-28T19:58:55.513Z - info: Escuchando en el puerto 3000.
+2019-11-28T19:59:25.508Z - error: Fallo la conexcion a mongodb
+2019-11-28T20:01:11.156Z - info: Escuchando en el puerto 3000.
+2019-11-28T20:01:21.467Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 316.769 ms
+2019-11-28T20:01:59.902Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-28T20:01:59.904Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 88.209 ms
+2019-11-28T20:02:27.808Z - info: ::1 - GET /productos HTTP/1.1 200 2 - 150.071 ms
+2019-11-28T20:04:36.405Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-28T20:04:36.987Z - info: Productos agregado a la coleccion productos {"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":93,"1":224,"2":40,"3":84,"4":231,"5":195,"6":21,"7":2,"8":58,"9":207,"10":10,"11":178}},"wasPopulated":false,"activePaths":{"paths":{"dueño":"require","moneda":"require","precio":"require","titulo":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"dueño":true,"moneda":true,"precio":true,"titulo":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"$setCalled":{},"emitter":{"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":{"$ref":"$[\"$__\"][\"_id\"]"},"titulo":"mack","precio":3000,"moneda":"SOL","dueño":"victorllcrc","__v":0},"$locals":{}}
+2019-11-28T20:04:36.992Z - info: ::1 - POST /productos HTTP/1.1 201 110 - 589.907 ms
+2019-11-28T20:06:08.959Z - info: Escuchando en el puerto 3000.
+2019-11-28T20:06:22.512Z - info: ::1 - GET /productos HTTP/1.1 200 112 - 151.608 ms
+2019-11-28T20:14:28.867Z - info: Escuchando en el puerto 3000.
+2019-11-28T20:14:38.815Z - info: Escuchando en el puerto 3000.
+2019-11-28T20:20:22.510Z - info: Escuchando en el puerto 3000.
+2019-11-28T20:20:47.679Z - info: Escuchando en el puerto 3000.
+2019-11-28T20:21:29.171Z - info: ::1 - GET /productos/5de02854e7c315023acf0ab2 HTTP/1.1 200 110 - 19.418 ms
+2019-11-28T20:30:02.642Z - error: Excepcion ocurrio al tratar de obtener producto con id[5de02854e7c315023acf0ab] CastError: Cast to ObjectId failed for value "5de02854e7c315023acf0ab" at path "_id" for model "producto"
+    at new CastError (/home/victor/vende_tus_corotos_api/node_modules/mongoose/lib/error/cast.js:29:11)
+    at ObjectId.cast (/home/victor/vende_tus_corotos_api/node_modules/mongoose/lib/schema/objectid.js:246:11)
+    at ObjectId.SchemaType.applySetters (/home/victor/vende_tus_corotos_api/node_modules/mongoose/lib/schematype.js:969:12)
+    at ObjectId.SchemaType._castForQuery (/home/victor/vende_tus_corotos_api/node_modules/mongoose/lib/schematype.js:1383:15)
+    at ObjectId.SchemaType.castForQuery (/home/victor/vende_tus_corotos_api/node_modules/mongoose/lib/schematype.js:1373:15)
+    at ObjectId.SchemaType.castForQueryWrapper (/home/victor/vende_tus_corotos_api/node_modules/mongoose/lib/schematype.js:1352:15)
+    at cast (/home/victor/vende_tus_corotos_api/node_modules/mongoose/lib/cast.js:315:32)
+    at model.Query.Query.cast (/home/victor/vende_tus_corotos_api/node_modules/mongoose/lib/query.js:4644:12)
+    at model.Query.Query._castConditions (/home/victor/vende_tus_corotos_api/node_modules/mongoose/lib/query.js:1842:10)
+    at model.Query.<anonymous> (/home/victor/vende_tus_corotos_api/node_modules/mongoose/lib/query.js:2097:8)
+    at model.Query._wrappedThunk [as _findOne] (/home/victor/vende_tus_corotos_api/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)
+    at /home/victor/vende_tus_corotos_api/node_modules/kareem/index.js:369:33
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+2019-11-28T20:30:02.649Z - info: ::1 - GET /productos/5de02854e7c315023acf0ab HTTP/1.1 500 66 - 69.120 ms
+2019-11-28T20:36:04.995Z - info: Escuchando en el puerto 3000.
+2019-11-28T20:36:16.312Z - info: ::1 - GET /productos/5de02854e7c315023acf0ab HTTP/1.1 400 66 - 2.416 ms
+2019-11-28T20:36:40.462Z - info: ::1 - GET /productos/5de02854e7c315023acf0ab2 HTTP/1.1 200 110 - 16.303 ms
+2019-11-28T20:36:45.797Z - info: ::1 - GET /productos/5de02854e7c315023acf0ab21232 HTTP/1.1 400 71 - 0.327 ms
+2019-11-28T20:38:58.257Z - info: Escuchando en el puerto 3000.
+2019-11-28T21:14:00.548Z - info: Escuchando en el puerto 3000.
+2019-11-28T21:14:18.687Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 82.993 ms
+2019-11-28T21:14:23.296Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-28T21:14:23.297Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 74.064 ms
+2019-11-28T21:15:13.303Z - info: ::1 - GET /usuarios/ HTTP/1.1 200 178 - 0.591 ms
+2019-11-28T21:15:37.403Z - info: ::1 - GET /usuarios/9a0d955b-4de3-4395-979d-8fc2e745e0e8 HTTP/1.1 404 184 - 1.506 ms
+2019-11-28T21:16:09.303Z - info: ::1 - GET /usuarios/9a0d955b-4de3-4395-979d-8fc2e745e0e8 HTTP/1.1 404 184 - 0.166 ms
+2019-11-28T21:16:25.799Z - info: ::1 - GET /usuarios/9a0d955b-4de3-4395-979d-8fc2e745e0e8 HTTP/1.1 404 184 - 0.130 ms
+2019-11-28T21:16:44.235Z - info: ::1 - GET /usuarios/ HTTP/1.1 200 178 - 0.351 ms
+2019-11-28T21:17:11.192Z - info: ::1 - GET /productos HTTP/1.1 200 112 - 12.307 ms
+2019-11-28T21:17:21.255Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-28T21:18:31.542Z - info: ::1 - DELETE /productos/5de02854e7c315023acf0ab2 HTTP/1.1 - - - - ms
+2019-11-28T21:18:37.224Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-28T21:18:37.225Z - info: ::1 - DELETE /productos/5de02854e7c315023acf0ab21 HTTP/1.1 400 68 - 1.473 ms
+2019-11-28T21:18:43.587Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-28T21:18:43.589Z - info: ::1 - DELETE /productos/5de02854e7c315023acf0ab HTTP/1.1 400 66 - 1.655 ms
+2019-11-28T21:19:30.815Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-28T21:19:36.349Z - info: ::1 - DELETE /productos/5de02854e7c315023acf0ab2 HTTP/1.1 - - - - ms
+2019-11-28T21:19:58.956Z - info: ::1 - GET /usuarios/ HTTP/1.1 200 178 - 0.263 ms
+2019-11-28T21:20:22.667Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-28T21:20:22.669Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 68.405 ms
+2019-11-28T21:20:37.645Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-28T21:21:22.283Z - info: Escuchando en el puerto 3000.
+2019-11-28T21:21:32.286Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 83.750 ms
+2019-11-28T21:21:35.385Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-28T21:21:35.386Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 69.323 ms
+2019-11-28T21:21:44.426Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-28T21:21:44.596Z - info: Producto con id [5de02854e7c315023acf0ab2] fue borrado
+2019-11-28T21:21:44.598Z - info: ::1 - DELETE /productos/5de02854e7c315023acf0ab2 HTTP/1.1 200 110 - 173.024 ms
+2019-11-28T21:22:01.651Z - info: ::1 - GET /productos HTTP/1.1 200 2 - 3.145 ms
+2019-11-28T21:29:50.731Z - info: Escuchando en el puerto 3000.
+2019-11-28T21:32:18.944Z - info: Escuchando en el puerto 3000.
+2019-11-28T21:41:03.730Z - info: Escuchando en el puerto 3000.
+2019-11-28T21:41:40.417Z - info: Escuchando en el puerto 3000.
+2019-11-28T21:42:27.695Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 26 - 81.369 ms
+2019-11-28T21:42:32.348Z - info: Usuario victorllcrc completo autentificacion exitosamente
+2019-11-28T21:42:32.350Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 199 - 72.531 ms
+2019-11-28T21:43:31.964Z - info: JWT token no es valido. Usuario con id 48e40735-c80a-4edc-9b28-604f99fd8e1b no existe
+2019-11-28T21:43:31.966Z - info: ::1 - POST /productos HTTP/1.1 401 - - 3.383 ms
+2019-11-28T21:43:43.463Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-28T21:43:43.479Z - info: Productos agregado a la coleccion productos {"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":93,"1":224,"2":63,"3":143,"4":52,"5":247,"6":38,"7":3,"8":36,"9":225,"10":233,"11":80}},"wasPopulated":false,"activePaths":{"paths":{"dueño":"require","moneda":"require","precio":"require","titulo":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"dueño":true,"moneda":true,"precio":true,"titulo":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"$setCalled":{},"emitter":{"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":{"$ref":"$[\"$__\"][\"_id\"]"},"titulo":"mack","precio":3000,"moneda":"SOL","dueño":"victorllcrc","__v":0},"$locals":{}}
+2019-11-28T21:43:43.485Z - info: ::1 - POST /productos HTTP/1.1 201 110 - 22.224 ms
+2019-11-28T21:44:26.416Z - info: ::1 - GET /productos HTTP/1.1 200 112 - 13.178 ms
+2019-11-28T21:44:48.111Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-28T21:44:48.300Z - info: Producto con id [5de03f8f34f7260324e1e950] reemplazado con nuevo producto {"$__":{"strictMode":true,"selected":{},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":93,"1":224,"2":63,"3":143,"4":52,"5":247,"6":38,"7":3,"8":36,"9":225,"10":233,"11":80}},"wasPopulated":false,"activePaths":{"paths":{"dueño":"init","moneda":"init","precio":"init","titulo":"init","_id":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"titulo":true,"precio":true,"moneda":true,"dueño":true,"__v":true},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"$setCalled":{},"emitter":{"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{"skipId":true,"isNew":false,"willInit":true}},"isNew":false,"_doc":{"_id":{"$ref":"$[\"$__\"][\"_id\"]"},"titulo":"mack","precio":300,"moneda":"SOL","dueño":"victorllcrc","__v":0},"$locals":{},"$init":true}
+2019-11-28T21:44:48.304Z - info: ::1 - PUT /productos/5de03f8f34f7260324e1e950 HTTP/1.1 200 109 - 189.884 ms
+2019-11-28T21:44:56.017Z - info: ::1 - GET /productos HTTP/1.1 200 111 - 1.815 ms
+2019-11-28T21:45:31.591Z - info: Usuario victorllcrcsuministro un token valido. Autentication completada.
+2019-11-28T21:45:31.626Z - info: Producto con id [5de03f8f34f7260324e1e950] reemplazado con nuevo producto {"$__":{"strictMode":true,"selected":{},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":93,"1":224,"2":63,"3":143,"4":52,"5":247,"6":38,"7":3,"8":36,"9":225,"10":233,"11":80}},"wasPopulated":false,"activePaths":{"paths":{"dueño":"init","moneda":"init","precio":"init","titulo":"init","_id":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"titulo":true,"precio":true,"moneda":true,"dueño":true,"__v":true},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"$setCalled":{},"emitter":{"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{"skipId":true,"isNew":false,"willInit":true}},"isNew":false,"_doc":{"_id":{"$ref":"$[\"$__\"][\"_id\"]"},"titulo":"iphone","precio":300,"moneda":"SOL","dueño":"victorllcrc","__v":0},"$locals":{},"$init":true}
+2019-11-28T21:45:31.635Z - info: ::1 - PUT /productos/5de03f8f34f7260324e1e950 HTTP/1.1 200 111 - 35.425 ms
+2019-11-28T21:45:34.484Z - info: ::1 - GET /productos HTTP/1.1 200 113 - 2.828 ms
+2019-11-28T22:14:33.698Z - info: Escuchando en el puerto 3000.
+2019-11-28T22:14:42.453Z - info: Escuchando en el puerto 3000.
+2019-11-28T22:18:36.503Z - info: Escuchando en el puerto 3000.
+2019-11-28T22:20:31.363Z - info: Escuchando en el puerto 3000.
+2019-11-28T22:21:45.982Z - info: Escuchando en el puerto 3000.
+2019-11-28T22:24:22.931Z - info: Escuchando en el puerto 3000.
+2019-11-28T22:24:46.837Z - info: ::1 - GET /usuarios/ HTTP/1.1 200 2 - 15.523 ms
+2019-11-28T22:27:57.872Z - info: Escuchando en el puerto 3000.
+2019-11-28T22:35:12.847Z - info: Escuchando en el puerto 3000.
+2019-11-28T22:35:34.358Z - info: Escuchando en el puerto 3000.
+2019-11-28T22:57:45.112Z - info: Escuchando en el puerto 3000.
+2019-11-28T23:00:38.120Z - info: Escuchando en el puerto 3000.
+2019-11-28T23:09:14.181Z - info: Escuchando en el puerto 3000.
+2019-11-28T23:09:28.794Z - info: ::1 - GET /usuarios/ HTTP/1.1 200 2 - 17.039 ms
+2019-11-28T23:09:33.371Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 27 - 445.825 ms
+2019-11-28T23:09:38.197Z - info: ::1 - GET /usuarios/ HTTP/1.1 200 124 - 7.043 ms
+2019-11-28T23:11:28.752Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 27 - 243.618 ms
+2019-11-28T23:11:31.683Z - info: ::1 - GET /usuarios/ HTTP/1.1 200 241 - 2.160 ms
+2019-11-28T23:13:15.102Z - info: Escuchando en el puerto 3000.
+2019-11-28T23:13:33.566Z - info: ::1 - POST /usuarios/ HTTP/1.1 201 27 - 111.445 ms
+2019-11-28T23:13:36.851Z - info: ::1 - GET /usuarios/ HTTP/1.1 200 403 - 5.184 ms
+2019-11-28T23:19:39.797Z - info: Escuchando en el puerto 3000.
+2019-11-28T23:24:54.596Z - info: Escuchando en el puerto 3000.
+2019-11-28T23:29:44.195Z - info: Escuchando en el puerto 3000.
+2019-11-28T23:38:47.721Z - info: Escuchando en el puerto 3000.
+2019-11-28T23:39:24.886Z - info: Usuario victorllcrc no completo autentificacion , contraseña incorecta 
+2019-11-28T23:39:24.891Z - info: ::1 - POST /usuarios/login HTTP/1.1 400 76 - 47.139 ms
+2019-11-28T23:40:01.901Z - info: Usuario luque completo autentificacion exitosamente
+2019-11-28T23:40:01.904Z - info: ::1 - POST /usuarios/login HTTP/1.1 200 183 - 69.777 ms
+2019-11-28T23:46:50.729Z - info: Escuchando en el puerto 3000.
+2019-12-17T08:20:09.760Z - info: Escuchando en el puerto 3000.
+2019-12-17T08:20:39.760Z - error: Fallo la conexcion a mongodb
+2019-12-17T08:23:51.532Z - info: Escuchando en el puerto 3000.
+2019-12-23T05:03:20.977Z - info: Escuchando en el puerto 3000.
